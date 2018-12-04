@@ -106,7 +106,7 @@
                 <ul class="social-icon">
                     <!-- <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li> -->
                     <!-- <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li> -->
-                    <li><a href="https://www.linkedin.com/in/yassine-assahnoun-468346143/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                    <li><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/yassine-assahnoun-468346143/"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
                     <li><a href="mailto:yassine.assahnoun@viacesi.fr"><i class="fa fa-envelope" aria-hidden="true"></i></a></li>
                     <!-- <li><a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li> -->
                 </ul>
@@ -317,6 +317,18 @@
                             </div>
                             <!-- /.skill-progress -->
 
+                            <div class="progress-item">
+                                <span class="progress-title">AngularJS</span>
+
+                                <div class="progress">
+                                    <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0"
+                                         aria-valuemax="100" style="width: 50%"><span
+                                            class="progress-percent"> 50%</span>
+                                    </div>
+                                </div>
+                                <!-- .progress -->
+                            </div>
+                            <!-- /.skill-progress -->
 
                         </div>
                         <!-- /.progress-wrapper -->
